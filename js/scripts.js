@@ -7,4 +7,5 @@ console.log('Hello, ' + name);
 /* This was my first fragment of
 Javascript code */
 
-// I find it very friendly
+// I had to change something to have any
+// new input in new branch to make pull request
